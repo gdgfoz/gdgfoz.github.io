@@ -1,0 +1,27 @@
+{
+    "ChapterName": "GDG Foz do Iguaçu",
+    "ChapterShortDescription": "O Google Developers Group Foz do Iguaçu, no Paraná, tem como objetivo juntar os usuários de tecnologias da Google da região e gerar uma troca de conhecimento através de encontros, reuniões e eventos. Além de servir como ponte entre empreendedores e desenvolvedores.",
+    "ChapterLongDec": "O Google Developers Group Foz do Iguaçu, no Paraná, tem como objetivo juntar os usuários de tecnologias da Google da região e gerar uma troca de conhecimento através de encontros, reuniões e eventos. Além de servir como ponte entre empreendedores e desenvolvedores.",
+    "ChapterMeetupLink": "https://www.meetup.com/GDG-Foz-do-Iguacu/",
+    "ChapterEmail": "gdgfoz@gmail.com",
+    "website": "https://www.gdgfoz.org",
+    "GDGProgramWebsite": "https://developers.google.com/programs/community/",
+    "ChapterHashTags": [
+        "GDGFozdoIguaçu",
+        "GDG"
+    ],
+    "socialLinks": [
+        {
+            "name": "Facebook",
+            "link": "https://www.facebook.com/GDGFoz/",
+            "icon": "fab fa-facebook"
+        },
+        {
+            "name": "Meetup",
+            "link": "https://www.meetup.com/GDG-Foz-do-Iguaçu/",
+            "icon": "fab fa-meetup"
+        }
+    ],
+    "wtmWebsite": "https://www.womentechmakers.com/",
+    "aboutGDGProgram": "GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
+}

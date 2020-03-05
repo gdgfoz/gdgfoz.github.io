@@ -1,0 +1,21 @@
+{
+    "communityGuideline": [
+        {
+            "name": "Seja legal",
+            "des": "We're all part of the same community, so be friendly, welcoming, and generally a nice person. Be someone that other people want to be around."
+        },
+        {
+            "name": "Seja respeitoso e construtivo",
+            "des": "Remember to be respectful and constructive with your communication to fellow members. Don't get into flamewars, make personal attacks, vent, or rant unconstructively. Everyone should take responsibility for the community and take the initiative to diffuse tension and stop a negative thread as early as possible."
+        },
+        {
+            "name": "Seja colaborador",
+            "des": "Work together! We can learn a lot from each other. Share knowledge, and help each other out."
+        },
+        {
+            "name": "Participe",
+            "des": "Join in on discussions, show up for in-person meetings regularly, offer feedback, and help implement that feedback."
+        }
+    ],
+    "coc": "When you join our programs, you’re joining a community. And like any growing community, a few ground rules about expected behavior are good for everyone. These guidelines cover both online (e.g. mailing lists, social channels) and offline (e.g. in-person meetups) behavior. Violations of this code of conduct can result in members being removed from the program. Use your best judgement, and if you’d like more clarity or have questions feel free to reach out."
+}
