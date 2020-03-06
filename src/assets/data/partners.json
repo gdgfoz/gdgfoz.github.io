@@ -1,18 +1,32 @@
 [
     {
-        "name":"GDG",
-        "link":"https://developers.google.com/groups",
-        "img":"gdglogo.png"
+        "name": "GDG",
+        "link": "https://developers.google.com/groups",
+        "img": "gdglogo.png"
     },
     {
-        "name":"WomenTechmakers",
-        "link":"https://www.womentechmakers.com/",
-        "img":"wtm.png"
+        "name": "WomenTechmakers",
+        "link": "https://www.womentechmakers.com",
+        "img": "wtm.png"
     },
     {
-        "name":"GDG[x]",
-        "link":"https://github.com/gdg-x",
-        "img":"gdg-x.svg"
+        "name": "GDG[x]",
+        "link": "https://github.com/gdg-x",
+        "img": "gdg-x.svg"
+    },
+    {
+        "name": "Lojas no Paraguai",
+        "link": "https://www.lojasparaguai.com.br",
+        "img": "lnp.svg"
+    },
+    {
+        "name": "Technos",
+        "link": "http://www.technosescola.com.br",
+        "img": "technos.png"
+    },
+    {
+        "name": "Uniamérica",
+        "link": "https://uniamerica.br",
+        "img": "uniamerica.png"
     }
-
 ]

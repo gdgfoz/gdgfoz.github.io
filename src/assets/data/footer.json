@@ -38,7 +38,7 @@
         },
         {
             "LinkName": "Google Play Console",
-            "Link": "https://console.cloud.google.com/"
+            "Link": "https://play.google.com/apps/publish/"
         },
         {
             "LinkName": "Firebase Console",
@@ -47,11 +47,11 @@
     ],
     "FooterEndSession": [
         {
-            "LinkName": "Code of Conduct",
+            "LinkName": "Código de conduta",
             "Link": "https://docs.google.com/document/d/1Wz_w6Z7usMnXKFMpOY4IPbA35twK7Uc4CAxScGDiwOk/edit"
         },
         {
-            "LinkName": "Terms & Servies",
+            "LinkName": "Terms & Services",
             "Link": "https://docs.google.com/document/d/14g3fv9NItiB8Hd-YGYyVYd2N4LRxe6Bx3syWse_wsiA/edit?usp=sharing"
         }
     ]

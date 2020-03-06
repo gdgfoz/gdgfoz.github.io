@@ -6,7 +6,8 @@
         <p
           class="google-font mt-1 mb-0"
           style="font-size:120%"
-        >A very big thank you to all our partners for their continued partnership.</p>
+        >Um grande agradecimento aos nossos parceiros</p>
+        <!-- A very big thank you to all our partners for their continued partnership.</p> -->
         <p class="google-font mt-0" style="font-size:120%">
           If you’re interested in being showcased throughout
           <b>{{chapterDetails.ChapterName}}</b>, contact
@@ -18,7 +19,7 @@
       </v-flex>
 
       <v-flex xs12 md12 class="mt-2">
-        <p class="google-font my-2" style="font-size:110%">General Partners</p>
+        <!-- <p class="google-font my-2" style="font-size:110%">General Partners</p> -->
 
         <v-layout row wrap class="transparent">
           <v-flex xs12 sm7 class="elevation-0 transparent">
