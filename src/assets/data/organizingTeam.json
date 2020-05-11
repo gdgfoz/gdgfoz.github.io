@@ -8,20 +8,20 @@
         "website": "https://www.hussan.com.br"
     },
     {
-        "name": "Name",
-        "designation": "Management",
-        "twitter": "",
-        "linkedin": "https://www.linkedin.com/",
-        "github": "",
+        "name": "Valmir Barbosa",
+        "designation": "Development",
+        "twitter": "https://twitter.com/valmirphp",
+        "linkedin": "https://www.linkedin.com/in/valmirbarbosa/",
+        "github": "https://github.com/valmirphp",
         "profileImage": "",
         "website": ""
     },
     {
-        "name": "Name",
+        "name": "Andre Queiroz",
         "designation": "Development",
-        "twitter": "https://twitter.com/",
-        "linkedin": "https://www.linkedin.com/",
-        "github": "https://www.github.com/",
+        "twitter": "https://twitter.com/andrequeirozcom",
+        "linkedin": "https://www.linkedin.com/in/andre-queiroz-4936b0b8/",
+        "github": "https://github.com/andrequeiroz2/",
         "profileImage": "",
         "website": ""
     },

@@ -79,7 +79,7 @@
               </p>
               <p class="google-font mt-0 mb-0" style="font-size:110%">
                 <v-icon small>map</v-icon>
-                {{item.venue.name | summery(30)}}
+<!--                {{item.venue.name | summery(30)}}-->
               </p>
             </div>
           </v-card-title>

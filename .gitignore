@@ -2,3 +2,6 @@
 .idea
 node_modules/**
 npm-debug.log
+.firebase
+dist
+firebase-debug.log
