@@ -1,7 +1,7 @@
 [
     {
         "name": "Houssan Ali Hijazi",
-        "designation": "Developer",
+        "designation": "Desenvolvedor",
         "twitter": "",
         "linkedin": "https://www.linkedin.com/in/hussanhijazi",
         "github": "https://github.com/hussanhijazi",
@@ -10,7 +10,7 @@
     },
     {
         "name": "Valmir Barbosa",
-        "designation": "Developer",
+        "designation": "Desenvolvedor",
         "twitter": "https://twitter.com/valmirphp",
         "linkedin": "https://www.linkedin.com/in/valmirbarbosa",
         "github": "https://github.com/valmirphp",
@@ -19,7 +19,7 @@
     },
     {
         "name": "Andre Queiroz",
-        "designation": "Developer",
+        "designation": "Analista de Suporte",
         "twitter": "https://twitter.com/andrequeirozcom",
         "linkedin": "https://www.linkedin.com/in/andre-queiroz-4936b0b8",
         "github": "https://github.com/andrequeiroz2",
@@ -27,29 +27,20 @@
         "website": ""
     },
     {
-        "name": "Name",
-        "designation": "Front End Developer",
+        "name": "Jacson Querubin",
+        "designation": "SysAdmin",
         "twitter": "",
-        "linkedin": "https://www.linkedin.com/in/vrijraj",
-        "github": "https://github.com/Vrijraj",
+        "linkedin": "https://br.linkedin.com/in/jacsonquerubin",
+        "github": "",
         "profileImage": "",
         "website": ""
     },
     {
-        "name": "Name",
-        "designation": "Front End Developer",
-        "twitter": "https://twitter.com/vrijrajsingh",
-        "linkedin": "https://www.linkedin.com/in/vrijraj",
-        "github": "https://github.com/Vrijraj",
-        "profileImage": "",
-        "website": ""
-    },
-    {
-        "name": "Name",
-        "designation": "Front End Developer",
-        "twitter": "https://twitter.com/vrijrajsingh",
-        "linkedin": "https://www.linkedin.com/in/vrijraj",
-        "github": "https://github.com/Vrijraj",
+        "name": "Fabiano Berlinck Neumann",
+        "designation": "Empresário e Professor",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/fabiano-berlinck-neumann-49b39457",
+        "github": "",
         "profileImage": "",
         "website": ""
     }

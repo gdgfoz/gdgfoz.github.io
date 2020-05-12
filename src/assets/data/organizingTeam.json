@@ -2,6 +2,7 @@
     {
         "name": "Houssan A. Hijazi",
         "designation": "Development",
+        "twitter": "https://twitter.com/hussanhijazi",
         "linkedin": "https://www.linkedin.com/in/hussanhijazi",
         "github": "https://github.com/hussanhijazi",
         "profileImage": "",
@@ -26,20 +27,20 @@
         "website": ""
     },
     {
-        "name": "Name",
-        "designation": "Development",
-        "twitter": "https://twitter.com/",
-        "linkedin": "https://linkedin.com/",
-        "github": "https://github.com/",
+        "name": "Jacson Querubin",
+        "designation": "SysAdmin",
+        "twitter": "",
+        "linkedin": "https://br.linkedin.com/in/jacsonquerubin",
+        "github": "",
         "profileImage": "",
-        "website": "https://github.com"
+        "website": ""
     },
     {
-        "name": "Name",
-        "designation": "Development",
-        "twitter": "https://twitter.com/",
-        "linkedin": "",
-        "github": "https://github.com/",
+        "name": "Fabiano Berlinck Neumann",
+        "designation": "Empresário e Professor",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/fabiano-berlinck-neumann-49b39457",
+        "github": "",
         "profileImage": "",
         "website": ""
     }
