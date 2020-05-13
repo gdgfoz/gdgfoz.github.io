@@ -81,15 +81,15 @@
               style="font-size:200%"
             >{{ChapterDetails.ChapterName}}</v-toolbar-title>
 
-            <v-btn
-              v-for="(item,i) in FooterData.FooterEndSession"
-              :key="i"
-              :href="item.Link"
-              target="_blank"
-              class="ml-0 google-font hidden-sm-and-down"
-              style="text-transform: capitalize;font-size:110%"
-              flat
-            >{{ item.LinkName }}</v-btn>
+<!--            <v-btn-->
+<!--              v-for="(item,i) in FooterData.FooterEndSession"-->
+<!--              :key="i"-->
+<!--              :href="item.Link"-->
+<!--              target="_blank"-->
+<!--              class="ml-0 google-font hidden-sm-and-down"-->
+<!--              style="text-transform: capitalize;font-size:110%"-->
+<!--              flat-->
+<!--            >{{ item.LinkName }}</v-btn>-->
           </v-toolbar>
         </v-flex>
       </v-layout>

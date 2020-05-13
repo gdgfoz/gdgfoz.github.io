@@ -7,18 +7,18 @@
 
     <v-layout wrap align-center justify-center row fill-height class="mt-0 mb-0">
       <v-flex xs12 md12 lg12 class="pa-2 mb-0">
-        <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Directory of past events</p>
-        <p
-          class="google-font mt-0 mb-0"
-          style="font-size:110%;color:#616161 "
-        >Events are listed in reverse chronological order by date.</p>
+        <p class="google-font mb-0" style="font-size:170%;color:#0277bd">Eventos passados</p>
+<!--        <p-->
+<!--          class="google-font mt-0 mb-0"-->
+<!--          style="font-size:110%;color:#616161 "-->
+<!--        >Events are listed in reverse chronological order by date.</p>-->
         <p class="google-font" style="font-size:110%;color:#616161 ">
-          Here are the recent 10 meetups. To know more about the past meetups
+         Abaixo os últimos 10 eventos. Para saber mais
           <a
             :href="chapterDetails.ChapterMeetupLink"
             target="_blank"
             style="text-decoration:none;color:#0277bd"
-          >Click here</a>
+          >clique aqui</a>.
         </p>
       </v-flex>
     </v-layout>

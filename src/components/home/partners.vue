@@ -9,12 +9,12 @@
         >Um grande agradecimento aos nossos parceiros</p>
         <!-- A very big thank you to all our partners for their continued partnership.</p> -->
         <p class="google-font mt-0" style="font-size:120%">
-          If you’re interested in being showcased throughout
-          <b>{{chapterDetails.ChapterName}}</b>, contact
+         Quer patrocinar o
+          <b>{{chapterDetails.ChapterName}}</b>. Entre em contato:
           <a
             style="color:#1565C0;text-decoration: none;"
             :href="`mailto:${chapterDetails.ChapterEmail}`"
-          >{{chapterDetails.ChapterEmail}}</a> to discuss sponsorship opportunities.
+          >{{chapterDetails.ChapterEmail}}</a>.
         </p>
       </v-flex>
 

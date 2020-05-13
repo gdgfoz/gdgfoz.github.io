@@ -7,11 +7,10 @@
 
     <v-layout wrap align-center justify-center row fill-height class="my-3">
       <v-flex xs12 md9 lg9 class="pa-2 text-xs-center">
-        <p class="google-font" style="font-size:170%">Nossos eventos & Meetups</p>
-        <p
-          class="google-font"
-          style="font-size:120%"
-        >At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.</p>
+        <p class="google-font" style="font-size:170%">Nossos eventos e Meetups</p>
+<!--        <p-->
+<!--          class="google-font"-->
+<!--          style="font-size:120%">At sessions that span from the technical to the visionary, let’s celebrate and discover what the technologies can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us.</p>-->
         <router-link
           to="/events"
           flat
@@ -68,7 +67,7 @@
         >
           <v-card-title class="mb-0">
             <div>
-              <p class="google-font mb-0" style="font-size:130%">{{ item.name | summery(25) }}</p>
+              <p class="google-font mb-0" style="font-size:130%">{{ item.name | summery(35) }}</p>
               <p class="google-font mt-1 mb-0" style="font-size:110%">
                 <v-icon small>insert_invitation</v-icon>
                 {{item.local_date | dateFilter}}
@@ -245,7 +244,7 @@ export default {
     },
     dateFilter: value => {
       const date = new Date(value);
-      return date.toLocaleString(["en-US"], {
+      return date.toLocaleString(["pt-BR"], {
         month: "short",
         day: "2-digit",
         year: "numeric"

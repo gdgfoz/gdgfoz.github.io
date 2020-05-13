@@ -10,7 +10,7 @@
           <p
             class="google-font mt-0 mb-0"
             style="font-size:110%"
-          >Questions? Please contact {{ChapterDetails.ChapterEmail}}.</p>
+          >Dúvidas? Entre em contato {{ChapterDetails.ChapterEmail}}.</p>
         </v-flex>
       </v-layout>
     </v-container>

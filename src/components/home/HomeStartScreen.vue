@@ -13,7 +13,7 @@
         </v-img>
       </v-flex>
       <v-flex xs12 sm7 md8 lg8 xl8 class>
-        <p class="google-font mb-1" style="font-weight: 350;color: #616161;font-size:300%">
+        <p class="google-font mb-1" style="font-weight: 300;color: #616161;font-size:300%">
           <b>
             Façamos coisas boas
             <span style="color: #1a73e8;">juntos</span>.
