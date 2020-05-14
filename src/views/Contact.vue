@@ -8,10 +8,10 @@
             style="font-size:200%;color:#616161"
           >Contato {{ChapterDetails.ChapterName}}</p>
           <!-- <v-divider></v-divider> -->
-          <p
-            class="google-font mt-3"
-            style="font-size:110%"
-          >Our events are open to newbies, developers, managers, and organizations who are interested in Google's technologies or use them as part of their projects.</p>
+<!--          <p-->
+<!--            class="google-font mt-3"-->
+<!--            style="font-size:110%"-->
+<!--          >Our events are open to newbies, developers, managers, and organizations who are interested in Google's technologies or use them as part of their projects.</p>-->
 
           <p class="google-font mb-0" style="font-size:130%">Social Media:</p>
           <p class="google-font mt-0 ml-0" style="font-size:130%">
@@ -28,7 +28,7 @@
           <p
             class="google-font mb-0"
             style="font-size:120%"
-          >Questions? Please contact {{ChapterDetails.ChapterEmail}}.</p>
+          >Dúvidas? Entre em contato {{ChapterDetails.ChapterEmail}}.</p>
         </v-flex>
         <v-flex xs12 md2 lg2 class="pa-2">
           <v-img
